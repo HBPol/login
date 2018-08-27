@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    User permissions: admin and normal users.
                 </div>
 
                 <div class="links">
