@@ -8,7 +8,7 @@
 
 		<div class=”panelpanel-default”>
 
-			<div class=”panel-heading btn-primary”>WELCOME TO ADMIN ROUTE</div>
+			<div class=”panel-heading btn-primary”>Welcome to admin path</div>
 
 		</div>
 
